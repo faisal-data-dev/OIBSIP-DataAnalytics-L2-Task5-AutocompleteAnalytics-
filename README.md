@@ -1,5 +1,2 @@
-OIBSIP/DataAnalytics-L1-AutocompleteAnalytics/
-│── dataset/          # Source corpus or text files used for training/testing
-│── notebook.ipynb    # Jupyter Notebook with full code implementation and markdown notes
-│── outputs/          # Generated plots, visualisations, and evaluation metrics
-│── README.md         # Project documentation
+📌 Project Overview
+This project analyzes the efficiency and accuracy of autocomplete and autocorrect algorithms using Natural Language Processing (NLP) techniques. It implements and compares multiple approaches for text prediction and spelling correction on a real text dataset
